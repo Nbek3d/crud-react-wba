@@ -1,4 +1,4 @@
-import Crud from './crud'
+import Crud from './component/crud'
 
 function App() {
   return (

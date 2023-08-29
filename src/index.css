@@ -4,6 +4,11 @@
   margin: 0;
 }
 
+.container{
+  width: 90%;
+  margin: 0 auto;
+}
+
 
 .card-container {
   background-color: #f7f7f7;
@@ -14,6 +19,7 @@
 
 .search-container {
   display: flex;
+  width: 50%;
   align-items: center;
   margin-bottom: 10px;
 }
